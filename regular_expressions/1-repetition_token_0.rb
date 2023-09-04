@@ -1,2 +1,3 @@
 #!/usr/bin/env ruby
-#/hbt*n{2,}/
+#/hbt*n/
+#/hbt*n{2,6}
