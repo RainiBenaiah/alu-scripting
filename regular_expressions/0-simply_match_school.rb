@@ -1,6 +1,2 @@
 #!/usr/bin/env ruby
-#/Benaiah/
-#/benaiah/
-#/BEnaiah/
-#/^a{3}Benaiah/
-#Benaiah\a{3}/
+#put ARGV[0].scan/School/.join
