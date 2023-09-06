@@ -1,3 +1,2 @@
 #!/usr/bin/env ruby
-#/hbt*n/
-#/hbt*n{2,6}
+puts ARGV[0].scan(/hb*tn/).join
